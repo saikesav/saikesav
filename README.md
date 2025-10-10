@@ -36,7 +36,7 @@
 ## 🌐 Let's Connect!
 - **LinkedIn:** Sai Kesav Ponnada
 - **GitHub:** saikesav
-- **Email:** ponnadasaikesav@gmail.com
+- **Email:** saikesavponnada18@gmail.com
 <!--
 **saikesav/saikesav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
